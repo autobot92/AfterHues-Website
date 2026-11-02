@@ -1,0 +1,98 @@
+{
+  "brand": "AfterHues Studio",
+  "storefront_url": "https://www.amazon.in/stores/page/94C16080-80EE-447E-8618-38C71AD7C1C7?ingress=2&lp_context_asin=B0GS2G2ZXX&visitId=12814154-4a25-414a-aae6-bdbfb9b174d5&ref_=ast_bln",
+  "retrieval_status": {
+    "attempt_date": "2026-10-17",
+    "result": "Amazon storefront and 12 product URLs were attempted individually; web retrieval returned 503 Service Unavailable / inaccessible. Exact ASIN searches did not return indexed listings.",
+    "not_independently_retrieved": [
+      "current price and MRP",
+      "discount",
+      "customer rating and review count",
+      "stock and availability",
+      "seller and delivery estimates",
+      "full product description and bullets",
+      "Amazon product specifications and customer reviews"
+    ],
+    "safe_to_use_now": "User-supplied URLs and ASINs; product names and fragrance/weight/burn-time details already readable from user-supplied product images/labels where present.",
+    "caution": "Product-to-ASIN matching is provisional and based on URL title slug plus the corresponding user-supplied product labels. It is not a verified scrape of the Amazon product detail page."
+  },
+  "product_urls_missing": [
+    "Rose Strawberry Macaron",
+    "Sandalwood Espresso",
+    "Lemongrass Breeze"
+  ],
+  "products": {
+    "Cafe Vanilla Melt": {
+      "asin": "B0GRTJRQLG",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Vanilla-Hand-Poured-Candle-Sandalwood/dp/B0GRTJRQLG?ref_=ast_sto_dp",
+      "url_title_cues": "Vanilla / Sandalwood",
+      "mapping_is_provisional": true
+    },
+    "Calm Heaven": {
+      "asin": "B0GS1277B4",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Lavender-Vanilla-Sandalwood/dp/B0GS1277B4?ref_=ast_sto_dp",
+      "url_title_cues": "Lavender / Vanilla / Sandalwood",
+      "mapping_is_provisional": true
+    },
+    "Garden Cafe": {
+      "asin": "B0GS14VD3R",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Strawberry-Jasmine-Vanilla/dp/B0GS14VD3R?ref_=ast_sto_dp",
+      "url_title_cues": "Strawberry / Jasmine / Vanilla",
+      "mapping_is_provisional": true
+    },
+    "Moonlit Jasmine": {
+      "asin": "B0GS12V684",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Moonlit-Hand-Poured-Lemongrass-Sandalwood/dp/B0GS12V684?ref_=ast_sto_dp",
+      "url_title_cues": "Moonlit / Lemongrass / Sandalwood",
+      "mapping_is_provisional": true
+    },
+    "Nightwood": {
+      "asin": "B0GS1MSWTK",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Nightwood-Hand-Poured-Lemongrass-Sandalwood/dp/B0GS1MSWTK?ref_=ast_sto_dp",
+      "url_title_cues": "Nightwood / Lemongrass / Sandalwood",
+      "mapping_is_provisional": true
+    },
+    "Nordic Stag": {
+      "asin": "B0GS1CZDDF",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Peppermint-Lemongrass-Sandalwood/dp/B0GS1CZDDF?ref_=ast_sto_dp",
+      "url_title_cues": "Peppermint / Lemongrass / Sandalwood",
+      "mapping_is_provisional": true
+    },
+    "Silk Bouquet": {
+      "asin": "B0GS1Z96TN",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Bouquet-Hand-Poured-Lavender-Jasmine/dp/B0GS1Z96TN?ref_=ast_sto_dp",
+      "url_title_cues": "Bouquet / Lavender / Jasmine",
+      "mapping_is_provisional": true
+    },
+    "Spa Slush": {
+      "asin": "B0GS28BXJ7",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Lemongrass-Peppermint-Lavender/dp/B0GS28BXJ7?ref_=ast_sto_dp",
+      "url_title_cues": "Lemongrass / Peppermint / Lavender",
+      "mapping_is_provisional": true
+    },
+    "Strawberry Cream Cloud": {
+      "asin": "B0GS1WZ3K8",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Strawberry-Hand-Poured-Vanilla-Sandalwood/dp/B0GS1WZ3K8?ref_=ast_sto_dp",
+      "url_title_cues": "Strawberry / Vanilla / Sandalwood",
+      "mapping_is_provisional": true
+    },
+    "Velvet Rose Creme": {
+      "asin": "B0GS2CNCG3",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Lavender-Vanilla-Sandalwood/dp/B0GS2CNCG3?ref_=ast_sto_dp",
+      "url_title_cues": "Lavender / Vanilla / Sandalwood (URL slug; Rose note appears on supplied label)",
+      "mapping_is_provisional": true
+    },
+    "Coffee": {
+      "asin": "B0GS2895MN",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Coffee-Hand-Poured-Candle-100ml/dp/B0GS2895MN?ref_=ast_sto_dp",
+      "url_title_cues": "Coffee / 100 ml",
+      "mapping_is_provisional": true
+    },
+    "Jasmine Whisper": {
+      "asin": "B0GS2G2ZXX",
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Whisper-Hand-Poured-Spa-Like-Fragrance/dp/B0GS2G2ZXX?ref_=ast_sto_dp",
+      "url_title_cues": "Whisper / Spa-like fragrance",
+      "mapping_is_provisional": true
+    }
+  }
+}

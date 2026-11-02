@@ -1,0 +1,964 @@
+{
+  "brand": "AfterHues Studio",
+  "received_image_batches": [
+    1,
+    2,
+    3
+  ],
+  "product_count_with_images": 15,
+  "product_image_count": 42,
+  "brand_assets": {
+    "logo": "Brand_Assets/Website_Logo.png",
+    "favicon": "Brand_Assets/Favicon.png"
+  },
+  "color_palette": {
+    "deep_burgundy_red": "#85000F",
+    "ivory_white": "#F7F3ED",
+    "champagne_beige": "#B99B7A",
+    "note": "Approximate colors inspired by the supplied visual reference; verify against original brand/logo files."
+  },
+  "categories": {
+    "FLORAL LUXURY": [
+      {
+        "product_name": "Moonlit Jasmine",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Jasmine Whisper",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Velvet Rose Creme",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Silk Bouquet",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Rose Strawberry Macaron",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Garden Cafe",
+        "image_status": "available"
+      }
+    ],
+    "GOUMAND & PRETTY": [
+      {
+        "product_name": "Sandalwood Espresso",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Cafe Vanilla Melt",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Strawberry Cream Cloud",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Coffee",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Velvet Rose Creme",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Rose Strawberry Macaron",
+        "image_status": "available"
+      }
+    ],
+    "DARK-WOODS & BARBERSHOP": [
+      {
+        "product_name": "Sandalwood Espresso",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Nightwood",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Nordic Stag",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Spa Slush",
+        "image_status": "available"
+      }
+    ],
+    "MODERN MINIMAL": [
+      {
+        "product_name": "Lemongrass Breeze",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Calm Heaven",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Coffee",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Garden Cafe",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Spa Slush",
+        "image_status": "available"
+      }
+    ],
+    "FOR HIM": [
+      {
+        "product_name": "Nightwood",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Nordic Stag",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Coffee",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Calm Heaven",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Lemongrass Breeze",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Cafe Vanilla Melt",
+        "image_status": "available"
+      }
+    ],
+    "FOR HER": [
+      {
+        "product_name": "Moonlit Jasmine",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Jasmine Whisper",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Strawberry Cream Cloud",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Rose Strawberry Macaron",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Garden Cafe",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Velvet Rose Creme",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Silk Bouquet",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Spa Slush",
+        "image_status": "available"
+      }
+    ],
+    "SPIRITUAL & YOGA": [
+      {
+        "product_name": "Moonlit Jasmine",
+        "image_status": "available"
+      },
+      {
+        "product_name": "Jasmine Whisper",
+        "image_status": "available"
+      }
+    ]
+  },
+  "products": {
+    "Cafe Vanilla Melt": {
+      "display_name": "Cafe Vanilla Melt",
+      "slug": "Cafe_Vanilla_Melt",
+      "categories": [
+        "GOUMAND & PRETTY",
+        "FOR HIM"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Cafe_Vanilla_Melt/01.png",
+          "original_filename": "Cafe Vanilla Melt(2).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 696489
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Cafe_Vanilla_Melt/02.png",
+          "original_filename": "Cafe Vanilla Melt_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1670741
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Cafe_Vanilla_Melt/03.png",
+          "original_filename": "Cafe Vanilla Melt_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2585025
+        }
+      ],
+      "weight_display": "100 g (confirm unit; most label artwork says 100g)",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Coffee"
+        ],
+        "heart": [
+          "Vanilla"
+        ],
+        "base": [
+          "Sandalwood"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Vanilla-Hand-Poured-Candle-Sandalwood/dp/B0GRTJRQLG?ref_=ast_sto_dp",
+      "amazon_asin": "B0GRTJRQLG",
+      "amazon_url_title_cues": "Vanilla / Sandalwood",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Calm Heaven": {
+      "display_name": "Calm Heaven",
+      "slug": "Calm_Heaven",
+      "categories": [
+        "MODERN MINIMAL",
+        "FOR HIM"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Calm_Heaven/01.png",
+          "original_filename": "Calm Haven(1).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 984470
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Calm_Heaven/02.png",
+          "original_filename": "Calm Haven_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1730009
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Calm_Heaven/03.png",
+          "original_filename": "Calm Haven_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2630778
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Lavender"
+        ],
+        "heart": [
+          "Vanilla"
+        ],
+        "base": [
+          "Sandalwood"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Lavender-Vanilla-Sandalwood/dp/B0GS1277B4?ref_=ast_sto_dp",
+      "amazon_asin": "B0GS1277B4",
+      "amazon_url_title_cues": "Lavender / Vanilla / Sandalwood",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Garden Cafe": {
+      "display_name": "Garden Cafe",
+      "slug": "Garden_Cafe",
+      "categories": [
+        "FLORAL LUXURY",
+        "MODERN MINIMAL",
+        "FOR HER"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Garden_Cafe/01.png",
+          "original_filename": "Garden Cafe(1).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 840765
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Garden_Cafe/02.png",
+          "original_filename": "Garden Cafe_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1882618
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Garden_Cafe/03.png",
+          "original_filename": "Garden Cafe_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2607550
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Strawberry"
+        ],
+        "heart": [
+          "Jasmine"
+        ],
+        "base": [
+          "Coffee",
+          "Vanilla"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Strawberry-Jasmine-Vanilla/dp/B0GS14VD3R?ref_=ast_sto_dp",
+      "label_name": "Garden Café",
+      "amazon_asin": "B0GS14VD3R",
+      "amazon_url_title_cues": "Strawberry / Jasmine / Vanilla",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Moonlit Jasmine": {
+      "display_name": "Moonlit Jasmine",
+      "slug": "Moonlit_Jasmine",
+      "categories": [
+        "FLORAL LUXURY",
+        "FOR HER",
+        "SPIRITUAL & YOGA"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Moonlit_Jasmine/01.png",
+          "original_filename": "Moonlit Jasmine(1).png",
+          "width": 2048,
+          "height": 2047,
+          "bytes": 2917709
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Moonlit_Jasmine/02.png",
+          "original_filename": "Moonlit Jasmine_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1904911
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Moonlit_Jasmine/03.png",
+          "original_filename": "Moonlit Jasmine_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2809772
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Lemongrass"
+        ],
+        "heart": [
+          "Jasmine",
+          "Rose"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Moonlit-Hand-Poured-Lemongrass-Sandalwood/dp/B0GS12V684?ref_=ast_sto_dp",
+      "name_note": "Original category list sometimes says Moonlight Jasmine; supplied product label says Moonlit Jasmine.",
+      "amazon_asin": "B0GS12V684",
+      "amazon_url_title_cues": "Moonlit / Lemongrass / Sandalwood",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Nightwood": {
+      "display_name": "Nightwood",
+      "slug": "Nightwood",
+      "categories": [
+        "DARK-WOODS & BARBERSHOP",
+        "FOR HIM"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Nightwood/01.png",
+          "original_filename": "Nightwood(2).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 640772
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Nightwood/02.png",
+          "original_filename": "Nightwood_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1888490
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Nightwood/03.png",
+          "original_filename": "Nightwood_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2807221
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Lemongrass"
+        ],
+        "heart": [
+          "Coffee"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Nightwood-Hand-Poured-Lemongrass-Sandalwood/dp/B0GS1MSWTK?ref_=ast_sto_dp",
+      "amazon_asin": "B0GS1MSWTK",
+      "amazon_url_title_cues": "Nightwood / Lemongrass / Sandalwood",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Nordic Stag": {
+      "display_name": "Nordic Stag",
+      "slug": "Nordic_Stag",
+      "categories": [
+        "DARK-WOODS & BARBERSHOP",
+        "FOR HIM"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Nordic_Stag/01.png",
+          "original_filename": "Nordic Stag(3).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 646834
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Nordic_Stag/02.png",
+          "original_filename": "Nordic Stag_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1933196
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Nordic_Stag/03.png",
+          "original_filename": "Nordic Stag_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2700873
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Peppermint",
+          "Lemongrass"
+        ],
+        "heart": [
+          "Lavender"
+        ],
+        "base": [
+          "Sandalwood"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Peppermint-Lemongrass-Sandalwood/dp/B0GS1CZDDF?ref_=ast_sto_dp",
+      "amazon_asin": "B0GS1CZDDF",
+      "amazon_url_title_cues": "Peppermint / Lemongrass / Sandalwood",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Rose Strawberry Macaron": {
+      "display_name": "Rose Strawberry Macaron",
+      "slug": "Rose_Strawberry_Macaron",
+      "categories": [
+        "FLORAL LUXURY",
+        "GOUMAND & PRETTY",
+        "FOR HER"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Rose_Strawberry_Macaron/01.png",
+          "original_filename": "Rose Strawberry Macaron(2).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 848379
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Rose_Strawberry_Macaron/02.png",
+          "original_filename": "Rose Strawberry Macaron_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1831379
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Rose_Strawberry_Macaron/03.png",
+          "original_filename": "Rose Strawberry Macaron_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2773035
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Strawberry"
+        ],
+        "heart": [
+          "Rose"
+        ],
+        "base": [
+          "Vanilla"
+        ]
+      },
+      "amazon_url": null
+    },
+    "Sandalwood Espresso": {
+      "display_name": "Sandalwood Espresso",
+      "slug": "Sandalwood_Espresso",
+      "categories": [
+        "GOUMAND & PRETTY",
+        "DARK-WOODS & BARBERSHOP"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Sandalwood_Espresso/01.png",
+          "original_filename": "Sandalwood Espresso(2).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 925555
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Sandalwood_Espresso/02.png",
+          "original_filename": "Sandalwood Espresso_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1922605
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Sandalwood_Espresso/03.png",
+          "original_filename": "Sandalwood Espresso_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2610859
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Peppermint"
+        ],
+        "heart": [
+          "Coffee"
+        ],
+        "base": [
+          "Sandalwood",
+          "Vanilla"
+        ]
+      },
+      "amazon_url": null
+    },
+    "Silk Bouquet": {
+      "display_name": "Silk Bouquet",
+      "slug": "Silk_Bouquet",
+      "categories": [
+        "FLORAL LUXURY",
+        "FOR HER"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Silk_Bouquet/01.png",
+          "original_filename": "Silk Bouquet(3).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 849157
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Silk_Bouquet/02.png",
+          "original_filename": "Silk Bouquet_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1850955
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Silk_Bouquet/03.png",
+          "original_filename": "Silk Bouquet_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2625692
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Lavender"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmine"
+        ],
+        "base": [
+          "Vanilla"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Bouquet-Hand-Poured-Lavender-Jasmine/dp/B0GS1Z96TN?ref_=ast_sto_dp",
+      "amazon_asin": "B0GS1Z96TN",
+      "amazon_url_title_cues": "Bouquet / Lavender / Jasmine",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Spa Slush": {
+      "display_name": "Spa Slush",
+      "slug": "Spa_Slush",
+      "categories": [
+        "DARK-WOODS & BARBERSHOP",
+        "MODERN MINIMAL",
+        "FOR HER"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Spa_Slush/01.png",
+          "original_filename": "Spa Slush(3).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 854562
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Spa_Slush/02.png",
+          "original_filename": "Spa Slush_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1948821
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Spa_Slush/03.png",
+          "original_filename": "Spa Slush_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2797415
+        }
+      ],
+      "weight_display": "100 g / 100 ml label artwork requires confirmation",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Lemongrass",
+          "Peppermint"
+        ],
+        "heart": [
+          "Lavender"
+        ],
+        "base": [
+          "Vanilla"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Lemongrass-Peppermint-Lavender/dp/B0GS28BXJ7?ref_=ast_sto_dp",
+      "amazon_asin": "B0GS28BXJ7",
+      "amazon_url_title_cues": "Lemongrass / Peppermint / Lavender",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Strawberry Cream Cloud": {
+      "display_name": "Strawberry Cream Cloud",
+      "slug": "Strawberry_Creme_Cloud",
+      "categories": [
+        "GOUMAND & PRETTY",
+        "FOR HER"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Strawberry_Creme_Cloud/01.png",
+          "original_filename": "Strawberry Crème Cloud(3).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 862075
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Strawberry_Creme_Cloud/02.png",
+          "original_filename": "Strawberry Crème Cloud_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1858226
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Strawberry_Creme_Cloud/03.png",
+          "original_filename": "Strawberry Crème Cloud_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2839926
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Strawberry"
+        ],
+        "heart": [
+          "Vanilla"
+        ],
+        "base": [
+          "Sandalwood"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Strawberry-Hand-Poured-Vanilla-Sandalwood/dp/B0GS1WZ3K8?ref_=ast_sto_dp",
+      "label_name": "Strawberry Crème Cloud",
+      "amazon_asin": "B0GS1WZ3K8",
+      "amazon_url_title_cues": "Strawberry / Vanilla / Sandalwood",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Velvet Rose Creme": {
+      "display_name": "Velvet Rose Creme",
+      "slug": "Velvet_Rose_Creme",
+      "categories": [
+        "FLORAL LUXURY",
+        "GOUMAND & PRETTY",
+        "FOR HER"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Velvet_Rose_Creme/01.png",
+          "original_filename": "Velvet Rose Creme(5).png",
+          "width": 1025,
+          "height": 1025,
+          "bytes": 923178
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Velvet_Rose_Creme/02.png",
+          "original_filename": "Velvet Rose Creme_2(1).png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1919871
+        },
+        {
+          "order": 3,
+          "file": "Product_Images/Velvet_Rose_Creme/03.png",
+          "original_filename": "Velvet Rose Creme_3.png",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 2795187
+        }
+      ],
+      "weight_display": "100 g",
+      "burn_time": "20 hours",
+      "fragrance_notes": {
+        "head": [
+          "Lavender"
+        ],
+        "heart": [
+          "Rose"
+        ],
+        "base": [
+          "Vanilla",
+          "Sandalwood"
+        ]
+      },
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Hand-Poured-Lavender-Vanilla-Sandalwood/dp/B0GS2CNCG3?ref_=ast_sto_dp",
+      "label_name": "Velvet Rose Crème",
+      "amazon_asin": "B0GS2CNCG3",
+      "amazon_url_title_cues": "Lavender / Vanilla / Sandalwood (URL slug; Rose note appears on supplied label)",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Coffee": {
+      "display_name": "Coffee",
+      "slug": "Coffee",
+      "categories": [
+        "GOUMAND & PRETTY",
+        "MODERN MINIMAL",
+        "FOR HIM"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Coffee/01.png",
+          "original_filename": "Coffee_1.png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1028445
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Coffee/02.png",
+          "original_filename": "Coffee_2.png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 541864
+        }
+      ],
+      "weight_display": "100 ml (as shown on supplied label; confirm unit)",
+      "burn_time": "20 hours",
+      "fragrance_notes": null,
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Coffee-Hand-Poured-Candle-100ml/dp/B0GS2895MN?ref_=ast_sto_dp",
+      "status": "Two image variants received; fragrance notes not supplied.",
+      "amazon_asin": "B0GS2895MN",
+      "amazon_url_title_cues": "Coffee / 100 ml",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    },
+    "Lemongrass Breeze": {
+      "display_name": "Lemongrass Breeze",
+      "slug": "Lemongrass_Breeze",
+      "categories": [
+        "MODERN MINIMAL",
+        "FOR HIM"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Lemongrass_Breeze/01.png",
+          "original_filename": "Lemongrass Breeze_1.png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1459327
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Lemongrass_Breeze/02.png",
+          "original_filename": "Lemongrass Breeze_2.png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 488358
+        }
+      ],
+      "weight_display": "100 ml (as shown on supplied label; confirm unit)",
+      "burn_time": "20 hours",
+      "fragrance_notes": null,
+      "amazon_url": null,
+      "status": "Two image variants received; detailed fragrance notes not supplied."
+    },
+    "Jasmine Whisper": {
+      "display_name": "Jasmine Whisper",
+      "slug": "Jasmine_Whisper",
+      "categories": [
+        "FLORAL LUXURY",
+        "FOR HER",
+        "SPIRITUAL & YOGA"
+      ],
+      "gallery_images": [
+        {
+          "order": 1,
+          "file": "Product_Images/Jasmine_Whisper/01.png",
+          "original_filename": "Jasmin Whisper_1.png",
+          "width": 1500,
+          "height": 1500,
+          "bytes": 2032521
+        },
+        {
+          "order": 2,
+          "file": "Product_Images/Jasmine_Whisper/02.png",
+          "original_filename": "Jasmin Whisper_2.png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 1266713
+        }
+      ],
+      "weight_display": "100 ml (as shown on supplied label; confirm unit)",
+      "burn_time": "20 hours",
+      "fragrance_notes": null,
+      "amazon_url": "https://www.amazon.in/AfterHuesTM-Whisper-Hand-Poured-Spa-Like-Fragrance/dp/B0GS2G2ZXX?ref_=ast_sto_dp",
+      "status": "Two image variants received; image filenames use “Jasmin Whisper”; category list uses “Jasmine Whisper”.",
+      "amazon_asin": "B0GS2G2ZXX",
+      "amazon_url_title_cues": "Whisper / Spa-like fragrance",
+      "amazon_listing_details_status": "Not independently retrieved; direct page was inaccessible (503). Do not invent live price, rating, availability, shipping, seller, description, or bullets."
+    }
+  },
+  "removed_incorrect_names": [
+    "Ispatals",
+    "Royal Sandalwood"
+  ],
+  "unmapped_products_with_images": [],
+  "website_behavior": {
+    "category_click": "Navigate to or filter the Our Products listing to show only products assigned to the chosen category.",
+    "product_card_default": "Show image 01 by default.",
+    "product_card_hover": "Cycle automatically through all images available for that product while hovered; support keyboard/touch behavior for accessibility.",
+    "product_card_click": "Open the product detail page.",
+    "amazon_ctas": "Separate Explore on Amazon / Buy on Amazon CTA on cards and product details; product URLs to be supplied by user.",
+    "product_detail_fields": [
+      "gallery",
+      "name",
+      "fragrance notes confirmed from labels",
+      "weight/unit as confirmed",
+      "burn time",
+      "verified safety/care information"
+    ],
+    "image_rule": "Use only user-provided product images; do not substitute stock or generated product imagery."
+  },
+  "pending_inputs": [
+    "confirm current contact number/email/address from policy screenshot",
+    "confirm 100 g vs 100 ml label unit for Coffee, Lemongrass Breeze and Jasmine Whisper",
+    "official spelling of product names where category list and packaging differ",
+    "final product safety/care instructions and About Us business facts",
+    "Amazon product URLs still needed for Rose Strawberry Macaron, Sandalwood Espresso, and Lemongrass Breeze",
+    "Amazon listing screenshots/text needed if adding price, MRP, discount, ratings, review count, seller, stock, delivery, full listing bullets or other Amazon-only fields; pages could not be fetched during research"
+  ],
+  "note": "Incorrect product names Ispatals and Royal Sandalwood are removed from category mappings. The “Testimonials” section is intentionally excluded because no verified reviews were supplied. Amazon Storefront and 12 product URLs have been recorded in this manifest. The Amazon pages returned 503/inaccessible in retrieval, so live listing details such as prices, ratings, stock, seller, shipping, and full product descriptions were not extracted. Three product URLs are still missing: Rose Strawberry Macaron, Sandalwood Espresso, Lemongrass Breeze.",
+  "last_updated": "2026-10-17",
+  "amazon_storefront_url": "https://www.amazon.in/stores/page/94C16080-80EE-447E-8618-38C71AD7C1C7?ingress=2&lp_context_asin=B0GS2G2ZXX&visitId=12814154-4a25-414a-aae6-bdbfb9b174d5&ref_=ast_bln",
+  "amazon_listing_retrieval_status": {
+    "attempt_date": "2026-10-17",
+    "result": "Amazon storefront and 12 product URLs were attempted individually; web retrieval returned 503 Service Unavailable / inaccessible. Exact ASIN searches did not return indexed listings.",
+    "not_independently_retrieved": [
+      "current price and MRP",
+      "discount",
+      "customer rating and review count",
+      "stock and availability",
+      "seller and delivery estimates",
+      "full product description and bullets",
+      "Amazon product specifications and customer reviews"
+    ],
+    "safe_to_use_now": "User-supplied URLs and ASINs; product names and fragrance/weight/burn-time details already readable from user-supplied product images/labels where present.",
+    "caution": "Product-to-ASIN matching is provisional and based on URL title slug plus the corresponding user-supplied product labels. It is not a verified scrape of the Amazon product detail page."
+  },
+  "amazon_products_with_urls": 12,
+  "products_missing_amazon_urls": [
+    "Rose Strawberry Macaron",
+    "Sandalwood Espresso",
+    "Lemongrass Breeze"
+  ]
+}
